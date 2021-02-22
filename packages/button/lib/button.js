@@ -3,5 +3,5 @@
 module.exports = button;
 
 function button() {
-    // TODO
+    var buttonText = 'button';
 }
