@@ -8,11 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2021-02-22
 ### Added
-- Copy change script..
+-
+ Copy change script..
 
 ### Changed
 - Add git ignore..
 - Init..
 
-[Unreleased]: https://github.com/kopkong/lerna-test/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/kopkong/lerna-test/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/kopkong/lerna-test/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/kopkong/lerna-test/releases/tag/1.0.0
