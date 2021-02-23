@@ -3,5 +3,5 @@
 module.exports = icon;
 
 function icon() {
-    // TODO
+    var icon = '';
 }
