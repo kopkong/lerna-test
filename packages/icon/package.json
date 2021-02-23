@@ -1,6 +1,6 @@
 {
   "name": "icon",
-  "version": "0.1.0",
+  "version": "0.2.0-alpha.1+96c7791",
   "description": "> TODO: description",
   "author": "h257749 <colin.kong@honeywell.com>",
   "homepage": "https://github.com/kopkong/lerna-test#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/kopkong/lerna-test/issues"
   },
-  "gitHead": "df6cb48f748a1c504b8dc657b5c028a700a75abc"
+  "gitHead": "96c779132a806b8266ed00eed76cf41bc3113a04"
 }
